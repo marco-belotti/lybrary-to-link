@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'EloquiaDisplayExtraBold';
+	src: url(../../assets/fonts/EloquiaDisplayExtraBold-d86ebadb76d3804b8c17e3e592e7e29b.woff2) format('woff2'),
+	url(../../assets/fonts/EloquiaDisplayExtraBold-8e4e2de97894f3d804a6878f1f4dbc7e.woff) format('woff');
+	font-weight: 400;
+	font-style: normal;
+	font-display: auto;
+}

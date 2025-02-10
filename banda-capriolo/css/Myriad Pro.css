@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Myriad Pro0';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Myriad Pro'), url('https://fonts.cdnfonts.com/s/492/MYRIADPRO-REGULAR.woff') format('woff');
+}
+@font-face {
+    font-family: 'Myriad Pro1';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Myriad Pro'), url('https://fonts.cdnfonts.com/s/492/MYRIADPRO-COND.woff') format('woff');
+}
+@font-face {
+    font-family: 'Myriad Pro2';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Myriad Pro'), url('https://fonts.cdnfonts.com/s/492/MYRIADPRO-CONDIT.woff') format('woff');
+}
+@font-face {
+    font-family: 'Myriad Pro3';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Myriad Pro'), url('https://fonts.cdnfonts.com/s/492/MyriadPro-Light.woff') format('woff');
+}
+@font-face {
+    font-family: 'Myriad Pro4';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Myriad Pro'), url('https://fonts.cdnfonts.com/s/492/MYRIADPRO-SEMIBOLD.woff') format('woff');
+}
+@font-face {
+    font-family: 'Myriad Pro5';
+    font-style: italic;
+    font-weight: 600;
+    src: local('Myriad Pro'), url('https://fonts.cdnfonts.com/s/492/MYRIADPRO-SEMIBOLDIT.woff') format('woff');
+}
+@font-face {
+    font-family: 'Myriad Pro6';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Myriad Pro'), url('https://fonts.cdnfonts.com/s/492/MYRIADPRO-BOLDCOND.woff') format('woff');
+}
+@font-face {
+    font-family: 'Myriad Pro7';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Myriad Pro'), url('https://fonts.cdnfonts.com/s/492/MYRIADPRO-BOLD.woff') format('woff');
+}
+@font-face {
+    font-family: 'Myriad Pro8';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Myriad Pro'), url('https://fonts.cdnfonts.com/s/492/MYRIADPRO-BOLDIT.woff') format('woff');
+}
+@font-face {
+    font-family: 'Myriad Pro9';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Myriad Pro'), url('https://fonts.cdnfonts.com/s/492/MYRIADPRO-BOLDCONDIT.woff') format('woff');
+}
+
+
